@@ -1,0 +1,2 @@
+# flaskplate-mongo
+Flaskplate + MongoDB
